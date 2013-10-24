@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Code Monday]]></title>
+  <link href="http://127biscuits.github.io/CodeMonday/atom.xml" rel="self"/>
+  <link href="http://127biscuits.github.io/CodeMonday/"/>
+  <updated>2013-10-24T16:09:52+01:00</updated>
+  <id>http://127biscuits.github.io/CodeMonday/</id>
+  <author>
+    <name><![CDATA[127 Biscuits]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+</feed>
