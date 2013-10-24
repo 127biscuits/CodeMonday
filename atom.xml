@@ -4,7 +4,7 @@
   <title><![CDATA[Code Monday]]></title>
   <link href="http://127biscuits.github.io/CodeMonday/atom.xml" rel="self"/>
   <link href="http://127biscuits.github.io/CodeMonday/"/>
-  <updated>2013-10-24T16:17:05+01:00</updated>
+  <updated>2013-10-24T16:38:46+01:00</updated>
   <id>http://127biscuits.github.io/CodeMonday/</id>
   <author>
     <name><![CDATA[127 Biscuits]]></name>
@@ -12,5 +12,14 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Hello Monday]]></title>
+    <link href="http://127biscuits.github.io/CodeMonday/blog/2013/10/24/hello-monday/"/>
+    <updated>2013-10-24T16:36:00+01:00</updated>
+    <id>http://127biscuits.github.io/CodeMonday/blog/2013/10/24/hello-monday</id>
+    <content type="html"><![CDATA[<p>Imagine an Open Source magazine where everybody can contribute, this is Code Monday!</p>
+]]></content>
+  </entry>
   
 </feed>
