@@ -2,18 +2,52 @@
 <urlset xmlns='http://www.sitemaps.org/schemas/sitemap/0.9'>
     <url>
         <loc>http://127biscuits.github.io/CodeMonday/blog/2013/10/24/hello-monday/</loc>
-        <lastmod>2013-10-24T16:38:27+01:00</lastmod>
+        <lastmod>2013-10-24T17:12:43+01:00</lastmod>
+    </url>
+    <url>
+        <loc>
+            http://127biscuits.github.io/CodeMonday/javascripts/libs/bootstrap-3.0.0/css.html
+        </loc>
+        <lastmod>2013-10-24T17:12:43+01:00</lastmod>
+    </url>
+    <url>
+        <loc>
+            http://127biscuits.github.io/CodeMonday/javascripts/libs/bootstrap-3.0.0/customize.html
+        </loc>
+        <lastmod>2013-10-24T17:12:43+01:00</lastmod>
+    </url>
+    <url>
+        <loc>
+            http://127biscuits.github.io/CodeMonday/javascripts/libs/bootstrap-3.0.0/getting-started.html
+        </loc>
+        <lastmod>2013-10-24T17:12:43+01:00</lastmod>
+    </url>
+    <url>
+        <loc>
+            http://127biscuits.github.io/CodeMonday/javascripts/libs/bootstrap-3.0.0/components.html
+        </loc>
+        <lastmod>2013-10-24T17:12:43+01:00</lastmod>
+    </url>
+    <url>
+        <loc>http://127biscuits.github.io/CodeMonday/javascripts/libs/bootstrap-3.0.0/</loc>
+        <lastmod>2013-10-24T17:12:43+01:00</lastmod>
+    </url>
+    <url>
+        <loc>
+            http://127biscuits.github.io/CodeMonday/javascripts/libs/bootstrap-3.0.0/javascript.html
+        </loc>
+        <lastmod>2013-10-24T17:12:43+01:00</lastmod>
     </url>
     <url>
         <loc>http://127biscuits.github.io/CodeMonday/blog/archives/</loc>
-        <lastmod>2013-10-24T16:38:27+01:00</lastmod>
+        <lastmod>2013-10-24T17:12:43+01:00</lastmod>
     </url>
     <url>
         <loc>http://127biscuits.github.io/CodeMonday/robots.txt</loc>
-        <lastmod>2013-10-24T16:16:57+01:00</lastmod>
+        <lastmod>2013-10-24T17:12:43+01:00</lastmod>
     </url>
     <url>
         <loc>http://127biscuits.github.io/CodeMonday/</loc>
-        <lastmod>2013-10-24T16:38:27+01:00</lastmod>
+        <lastmod>2013-10-24T17:12:43+01:00</lastmod>
     </url>
 </urlset>
